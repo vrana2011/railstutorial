@@ -1,0 +1,13 @@
+{
+  "name": "railstutorial",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
